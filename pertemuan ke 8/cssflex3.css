@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+}
+header,article,aside,nav,footer{
+    padding: 20px;
+}
+.content{
+    display: flex;
+    height: 80vh;
+}
+header{
+    background-color: blue;
+}
+article{
+    background-color: aquamarine;
+    width: 50%;
+}
+aside{
+    background-color: lightseagreen;
+    width: 25%;
+}
+nav{
+    background-color: darkslategrey;
+    width: 25%;
+}
+footer{
+    background-color: black;
+}
